@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  width: 100%;
+  background-color: rgb(22, 22, 22);
+  color: white;
+  justify-content: center;
+  gap: 25%;
+}
+
+.info-left {
+  display: flex;
+  gap: 1.5rem;
+  font-size: 0.8rem;
+  align-items: center;
+}
+
+.info-right {
+  display: flex;
+  gap: 1.5rem;
+  font-size: 0.6rem;
+  align-items: center;
+}
